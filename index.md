@@ -2,6 +2,7 @@
 title: The Royal Uno Rules
 author: The House of Denni
 version: 0.1
+layout: post
 ---
 
 ## 1 The Point of the Game
