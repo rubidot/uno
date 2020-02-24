@@ -2,8 +2,10 @@
 title: The Royal Uno Rules
 author: The House of Denni
 version: 0.1
-layout: post
+layout: page
 ---
+## Terminology
+https://en.wikipedia.org/wiki/Card_game#Hands,_rounds_and_games
 
 ## #1 The Point of the Game
 The game ends when you can no longer play the game, or at the ending agreed upon by the players, whichever comes first. At the end of the game, the player with the lowest number of points is The Supreme Ruler, and the player with the highest number of points is The Ultimate Scrub.
@@ -19,6 +21,12 @@ At the end of the round, the player that gained the most points that round is th
 
 ## #5 The King's Court
 Every time the highest player point total crosses the next 100 point threshold, all players except The King rise from their seats. The players, excluding The King, reseat themselves according to point totals, in ascending order from the left of The King. If the Scrub is tied in points with any other players, the Scrub is considered to have a higher number of points. When all players are seated in proper relation to The King, The King's Court is declared _In Order_, and play continues with the next round.
+
+## Stack
+
+## Cut
+
+## Time Bomb
 
 ---
 
